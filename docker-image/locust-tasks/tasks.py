@@ -455,9 +455,5 @@ class WebsiteTest(HttpUser):
     tasks = [UserBehaviour]
     wait_time = between(2, 5)
     host = "https://preprodms.embibe.com"
-        
 
-               
-              
-        
 
